@@ -1,0 +1,34 @@
+.product-row-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 30px;
+    border: 1px solid turquoise;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 10px;
+    
+}
+
+.name-price{
+    text-align: left;
+    font-weight: bold;
+    padding-left: 10px;
+    
+}
+
+.red{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 30px;
+    border: 1px solid red;
+    margin-top: 10px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#red{
+    color: red;
+    font-weight: bold;
+    
+}
